@@ -3,15 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Danger
+  - Coconut
+  - Right
+  - Left
+  - Up
+  - Down
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Danger
   - Water
   - UI
-  - 
+  - Coconut
   - 
   - 
   - 
@@ -40,4 +46,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ui
+    uniqueID: 2531261731
     locked: 0
