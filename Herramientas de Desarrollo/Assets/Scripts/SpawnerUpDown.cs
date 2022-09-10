@@ -16,9 +16,9 @@ public class SpawnerUpDown : MonoBehaviour
 
     IEnumerator SpawnRandomGameObjectTop()
     {
-        yield return new WaitForSeconds(Random.Range(2, 10));
+        yield return new WaitForSeconds(Random.Range(1, 2));
 
-        if (Random.value <= 4)
+        if (Random.value <= .8f)
         {
             Instantiate(coconut,
                new Vector2(Random.Range(-xBounds, xBounds), yBounds), Quaternion.identity, this.transform);
