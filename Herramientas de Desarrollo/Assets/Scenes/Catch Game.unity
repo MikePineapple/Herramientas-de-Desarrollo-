@@ -1443,7 +1443,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   coconut: {fileID: 6867953131833140246, guid: ec0bdeca2d9bf6749b84fcb37d1cedbd, type: 3}
   danger: {fileID: 5958629024355287779, guid: 6b45ab9c1dd31e74faecda63047b9a91, type: 3}
-  xBounds: 10
+  xBounds: 11
   yBounds: 6
 --- !u!4 &1575192102
 Transform:
@@ -1968,4 +1968,4 @@ MonoBehaviour:
   coconut: {fileID: 6867953131833140246, guid: ec0bdeca2d9bf6749b84fcb37d1cedbd, type: 3}
   danger: {fileID: 5958629024355287779, guid: 6b45ab9c1dd31e74faecda63047b9a91, type: 3}
   xBounds: 10
-  yBounds: 5
+  yBounds: 7.5
